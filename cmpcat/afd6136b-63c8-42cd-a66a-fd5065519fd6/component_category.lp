@@ -1,0 +1,10 @@
+(librepcb_component_category afd6136b-63c8-42cd-a66a-fd5065519fd6
+ (name "555")
+ (description "Timer IC")
+ (keywords "")
+ (author "gunpowder")
+ (version "0.1")
+ (created 2024-03-03T14:41:35Z)
+ (deprecated false)
+ (parent none)
+)

@@ -1,0 +1,11 @@
+(librepcb_library 35159f7c-4458-4b67-92df-6c1f73980b77
+ (name "555")
+ (description "Timer IC")
+ (keywords "")
+ (author "gunpowder")
+ (version "0.1")
+ (created 2024-03-03T12:13:49Z)
+ (deprecated false)
+ (url "")
+ (manufacturer "")
+)
