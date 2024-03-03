@@ -1,0 +1,13 @@
+(librepcb_library 35159f7c-4458-4b67-92df-6c1f73980b77
+ (name "555")
+ (description "Timer IC")
+ (keywords "")
+ (author "gunpowder")
+ (version "1.1")
+ (created 2024-03-03T12:13:49Z)
+ (deprecated false)
+ (url "https://github.com/GunPowderAb/555.lplib.git")
+ (dependency 326f091b-b715-44bf-b385-b613cd60d9f3)
+ (dependency 35159f7c-4458-4b67-92df-6c1f73980b77)
+ (manufacturer "")
+)
